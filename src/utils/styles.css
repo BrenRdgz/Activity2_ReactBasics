@@ -1,0 +1,10 @@
+h1{
+    font-size:40px;
+    color: black;
+    text-shadow: 3px 4px 5px yellow;
+    text-align: center;
+}
+
+.background{
+    background-image: url(../utils/images/background.jpg);
+}
